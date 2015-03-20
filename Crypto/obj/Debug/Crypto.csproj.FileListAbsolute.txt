@@ -1,0 +1,9 @@
+C:\Users\lross\Documents\Visual Studio 2013\Projects\Crypto\Crypto\bin\Debug\Crypto.exe.config
+C:\Users\lross\Documents\Visual Studio 2013\Projects\Crypto\Crypto\obj\Debug\Crypto.csprojResolveAssemblyReference.cache
+C:\Users\lross\Documents\Visual Studio 2013\Projects\Crypto\Crypto\obj\Debug\Crypto.Form1.resources
+C:\Users\lross\Documents\Visual Studio 2013\Projects\Crypto\Crypto\obj\Debug\Crypto.Properties.Resources.resources
+C:\Users\lross\Documents\Visual Studio 2013\Projects\Crypto\Crypto\obj\Debug\Crypto.csproj.GenerateResource.Cache
+C:\Users\lross\Documents\Visual Studio 2013\Projects\Crypto\Crypto\bin\Debug\Crypto.exe
+C:\Users\lross\Documents\Visual Studio 2013\Projects\Crypto\Crypto\bin\Debug\Crypto.pdb
+C:\Users\lross\Documents\Visual Studio 2013\Projects\Crypto\Crypto\obj\Debug\Crypto.exe
+C:\Users\lross\Documents\Visual Studio 2013\Projects\Crypto\Crypto\obj\Debug\Crypto.pdb
